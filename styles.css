@@ -334,25 +334,6 @@ iframe .freebirdFormviewerViewNavigationSubmitButton:hover {
   width: 30px;
 }
 
-#social {
-  display: flex;
-  justify-content: space-around;
-  margin-top: 20px;
-}
-
-#social a {
-  display: block;
-  text-align: center;
-  width: 25%; /* Adjust based on the number of links */
-  max-width: 100px; /* Set a maximum width for the images */
-  margin-bottom: 10px;
-}
-
-#social img {
-  width: 100%;
-  height: auto;
-}
-
 /* Media query for mobile devices */
 @media only screen and (max-width: 600px) {
   #social {
