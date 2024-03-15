@@ -345,3 +345,12 @@ iframe .freebirdFormviewerViewNavigationSubmitButton:hover {
 #locate img {
   width: 30px;
 }
+#locate img:hover{
+  width: 50px;
+}
+.footer-links li:hover{
+  font-size: 30px;
+}
+#name:hover{
+  font-size: 5vh;
+}
