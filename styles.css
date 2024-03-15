@@ -238,15 +238,15 @@ footer a {
   }
   #social {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
   }
+
   #social a {
-    width: 80%; 
-    max-width: 250px;
-    margin-bottom: -50px; 
-    margin-top: 40px;
-    top: 20px;
+    width: 30%;
+    max-width: 70px;
+    margin: 0 5px;
   }
 }
 
